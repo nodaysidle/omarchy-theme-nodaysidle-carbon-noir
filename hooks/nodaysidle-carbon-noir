@@ -1,0 +1,11 @@
+#!/bin/bash
+# Omarchy Theme Hook for Nodaysidle Carbon Noir
+set -euo pipefail
+
+THEME="${1:-}"
+THEME_DIR="$HOME/.config/omarchy/themes/nodaysidle-carbon-noir"
+
+# Nothing destructive; hot-reloads shell and hyprland when applied
+if [[ "$THEME" == "nodaysidle-carbon-noir" || "$THEME" == "Nodaysidle Carbon Noir" ]]; then
+  echo "[hook] Activated Nodaysidle Carbon Noir"
+fi

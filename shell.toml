@@ -1,0 +1,78 @@
+# Omarchy Shell Surfaces for nodaysidle Carbon Noir
+# Haute Brutalism & Liquid Titanium
+
+[bar]
+background       = "#090A0C"
+background-alpha = 0.98
+text             = "#E2E8F0"
+active           = "#38BDF8"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
+
+[hyprland]
+active-border            = "#CBD5E1"
+active-border-foreground = "#38BDF8"
+
+[controls]
+normal-color        = "#475569"
+normal-fill-alpha   = 0.06
+normal-border       = "#334155"
+normal-border-width = 1
+normal-border-alpha = 0.60
+
+hover-cursor-color        = "#38BDF8"
+hover-cursor-fill-alpha   = 0.18
+hover-cursor-border       = "#38BDF8"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.80
+
+focus-color        = "#38BDF8"
+focus-fill-alpha   = 0.14
+focus-border       = "#CBD5E1"
+focus-border-width = 1
+focus-border-alpha = 0.85
+
+selected-color        = "#E2E8F0"
+selected-fill-alpha   = 0.22
+selected-border       = "#38BDF8"
+selected-border-width = 1
+selected-border-alpha = 0.90
+
+pressed-fill-alpha   = 0.30
+selection-fill-alpha = 0.40
+
+[font]
+base-size = 11
+
+[popups]
+background       = "#090A0C"
+background-alpha = 0.98
+text             = "#F8FAFC"
+border           = "#475569"
+border-alpha     = 0.70
+
+[tooltip]
+background       = "#050607"
+background-alpha = 0.98
+text             = "#38BDF8"
+border           = "#334155"
+border-alpha     = 0.80
+
+[notifications]
+background       = "#090A0C"
+background-alpha = 0.98
+text             = "#F8FAFC"
+border           = "#CBD5E1"
+border-alpha     = 0.85
+urgency-low      = "#475569"
+urgency-normal   = "#38BDF8"
+urgency-critical = "#F43F5E"
+
+[osd]
+background       = "#090A0C"
+background-alpha = 0.96
+text             = "#E2E8F0"
+border           = "#334155"
+border-alpha     = 0.70
+fill             = "#38BDF8"
