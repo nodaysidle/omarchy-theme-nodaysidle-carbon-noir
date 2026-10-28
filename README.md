@@ -1,4 +1,4 @@
-# nodaysidle Carbon Noir — Omarchy Theme ⛓️🖤
+# nodaysidle Carbon Noir — Omarchy Theme
 
 > *"Haute brutalism and liquid titanium: forged for relentless shipping."*
 
@@ -8,7 +8,7 @@ Rooted in the visual DNA of forged carbon fiber weaves, liquid mercury, and brut
 
 ---
 
-## 🎨 Design System & Color Tokens
+## Design System & Color Tokens
 
 Anchored in a forged graphite and pitch void ground with liquid platinum and surgical laser cyan accents:
 
@@ -25,7 +25,7 @@ Anchored in a forged graphite and pitch void ground with liquid platinum and sur
 
 ---
 
-## ⚡ Key Architectural Features
+## Key Architectural Features
 
 ### 1. Monolithic Liquid Steel Borders
 A surgical 2px border combining **Titanium Frost (`#CBD5E1`)**, **Surgical Laser Cyan (`#38BDF8`)**, **Forged Carbon Slate (`#334155`)**, and **Charcoal Void (`#1E293B`)** along a 90° gradient axis. Designed with zero looping animation overhead for frictionless 120Hz performance.
@@ -53,7 +53,7 @@ Includes 6 bespoke wallpapers at native 2560×1440:
 
 ---
 
-## 🚀 Installation & Activation
+## Installation & Activation
 
 ### 1. Register the Theme
 Run the installer from within the theme repository:
@@ -75,7 +75,7 @@ omarchy theme bg next
 
 ---
 
-## 📂 File Architecture
+## File Architecture
 
 ```
 omarchy-theme-nodaysidle-carbon-noir/
@@ -99,5 +99,5 @@ omarchy-theme-nodaysidle-carbon-noir/
 
 ---
 
-## 🏎️ Built for NODAYSIDLE
+## Built for NODAYSIDLE
 Part of the [nodaysidle](https://github.com/nodaysidle) workspace — relentless shipping, zero compromise.
